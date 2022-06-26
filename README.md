@@ -10,7 +10,7 @@ I'm a computational mass spectrometry data scientist. I have developed a number 
 
   - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically environmental complex matrices for unknown contaminants. The IPDC algorithm was employed in five different projects.
 
-  - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) is a peak-picking software package which is able to screen at lowest signal intensities (S/N >= 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. ), to smooth chromatographic peaks using a loess method to preserve the overall peak shapes, retention time drifts correction using indigenous index markers, large-scale peak alignment (N > 2000), gap filling, peak annotation and visualization of extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
+  - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) is a peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. ), to smooth chromatographic peaks using a loess method to preserve the overall peak shapes, retention time drifts correction using indigenous index markers, large-scale peak alignment (N > 2000), gap filling, peak annotation and visualization of extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
 
   - [IDSL.UFA](https://github.com/idslme/IDSL.UFA) is a computationally enhanced pipeline to annotate chromatographic peaks with molecular formula using an isotopic profile matching approach. IDSL.UFA is especially beneficial when MS/MS data is not available.
 
