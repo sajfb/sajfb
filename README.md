@@ -18,4 +18,4 @@ I'm a computational mass spectrometry data scientist. I have developed a number 
 
   [IDSL.MXP](https://github.com/idslme/IDSL.MXP) is a light and fast parser for mzML/mzXML/netCDF mass spectrometry data files.
 
-  [IDSL.SUFA](https://github.com/idslme/IDSL.SUFA) is a simplified version of the IDSL.UFA package to calculate isotopic profiles and adduct formulas from molecular formulas with no dependency on other R packages for online tools. The IDSL.SUFA package has functions to process user-defined adduct formulas.
+  [IDSL.SUFA](https://github.com/idslme/IDSL.SUFA) is a simplified version of the IDSL.UFA package to calculate isotopic profiles and adduct formulas from molecular formulas with no dependency on other R packages for [online tools](https://ipc.idsl.me/). The IDSL.SUFA package has functions to process user-defined adduct formulas.
