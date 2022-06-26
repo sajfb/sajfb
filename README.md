@@ -6,6 +6,10 @@ I'm a data scientist in the field of computational mass spectrometry. I have dev
 
   - [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analyzer is a pipeline for processing nominal mass spectrometry data to create .msp files for untargeted MS/MS workflows.
 
+**Pending project**
+
+  - Developing computational peptide identification workflow from various peptide libraries to qurey proteomics data for bottom-up proteomics via spectral entropy measurement.
+
 **Completed projects**
 
   - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically environmental complex matrices for unknown contaminants. The IPDC algorithm was employed in five different projects.
