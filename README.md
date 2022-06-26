@@ -2,7 +2,7 @@ I'm a data scientist in the field of computational mass spectrometry. I have dev
 
 **Active projects**
 
-  - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analyzer) is being developed to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as MS^E, and All-Ion Fragmentation (AIF) analyses. The IDSL.CSA package is also able to annotate standard .msp files using mass spectral entropy similarity measurements.
+  - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analyzer) is being developed to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as MS<sup>E</sup>, and All-Ion Fragmentation (AIF) analyses. The IDSL.CSA package is also able to annotate standard .msp files using mass spectral entropy similarity measurements.
 
   - [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analyzer is a pipeline for processing nominal mass spectrometry data to create .msp files for untargeted MS/MS workflows.
 
@@ -10,7 +10,7 @@ I'm a data scientist in the field of computational mass spectrometry. I have dev
 
   - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically environmental complex matrices for unknown contaminants. The IPDC algorithm was employed in five different projects.
 
-  - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analyzer) is a chromatographic peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. ∆C = 13C - 12C = 1.003354835336 Da), to smooth chromatographic peaks using a loess method to preserve the overall peak shapes, retention time drifts correction using indigenous index markers across population size studies, large-scale peak alignment (N > 2000), gap filling, peak annotation and visualization of extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
+  - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analyzer) is a chromatographic peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. ∆C = <sup>13</sup>C - <sup>12</sup>C = 1.003354835336 Da), to smooth chromatographic peaks using a loess method to preserve the overall peak shapes, retention time drifts correction using indigenous index markers across population size studies, large-scale peak alignment (N > 2000), gap filling, peak annotation and visualization of extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
 
   - [IDSL.UFA](https://github.com/idslme/IDSL.UFA) (United Formula Annotation) is a computationally enhanced pipeline to annotate chromatographic peaks with molecular formula using an isotopic profile matching approach. IDSL.UFA is especially beneficial when MS/MS data is not available.
 
