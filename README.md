@@ -8,7 +8,7 @@ I'm a data scientist in the field of computational mass spectrometry. I have dev
 
 **Future Proteomics project**
 
-  - Developing a computational peptide identification workflow to qurey bottom-up proteomics data via spectral entropy measurement.
+  - Developing a computational peptide identification workflow to qurey bottom-up proteomics data via measurement of spectral entropy similarity.
 
 **Completed projects**
 
