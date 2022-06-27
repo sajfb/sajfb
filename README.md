@@ -6,7 +6,7 @@ I'm a data scientist in the field of computational mass spectrometry. I have dev
 
   - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analyzer) is being developed to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as MS<sup>E</sup>, and All-Ion Fragmentation (AIF) analyses.
 
-  - [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analyzer is a pipeline for processing nominal mass spectrometry data to create .msp files for untargeted MS/MS workflows.
+  - [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analyzer) is a pipeline for processing nominal mass spectrometry data to create .msp files for untargeted MS/MS workflows.
 
 **Completed projects**
 
