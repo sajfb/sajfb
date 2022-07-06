@@ -10,7 +10,7 @@ I am a data scientist in the field of computational mass spectrometry. I have de
 
 **Completed projects**
 
-  - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically environmental complex matrices for unknown contaminants. The IPDC algorithm was sucessfully employed in five different projects.
+  - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically environmental complex matrices for unknown contaminants. The IPDC algorithm was sucessfully employed in five different projects during my PhD.
 
   - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analyzer) is a chromatographic peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues within a fixed distance (e.g. ∆C = <sup>13</sup>C - <sup>12</sup>C = 1.003354835336 Da), to smooth chromatographic peaks using a loess method to preserve the overall peak shapes, to correct retention time drifts using indigenous index markers, to align peaks (m/z-RT pairs) across population size studies (N > 200), to fill gaps on the aligned peak table, to annotate peaks, and to visualize extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
 
