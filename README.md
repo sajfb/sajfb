@@ -2,9 +2,9 @@ I am a data scientist in the field of computational mass spectrometry. I have de
 
 **Active projects**
 
-  - [IDSL.FSA](https://github.com/idslme/IDSL.FSA) (Fragmentation Spectra Analyzer) is a computational fragmentation annotation workflow to annotate .msp files quickly via measurement of spectral entropy similarity even when precursor values are not available nor reliable. IDSL.FSA also may be employed to query bottom-up proteomics data.
+  - [IDSL.FSA](https://github.com/idslme/IDSL.FSA) (Fragmentation Spectra Analysis) is a computational fragmentation annotation workflow to annotate .msp files quickly via measurement of spectral entropy and/or cosine similarity even when precursor values are not available nor reliable. IDSL.FSA also may be employed to process bottom-up proteomics data.
 
-  - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analyzer) is under development to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as MS<sup>E</sup>, and All-Ion Fragmentation (AIF) analyses.
+  - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analysis) is under development to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as MS<sup>E</sup>, and All-Ion Fragmentation (AIF) analyses.
 
   - [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analyzer) is a pipeline for processing nominal mass spectrometry data to create .msp files for untargeted MS/MS workflows.
 
