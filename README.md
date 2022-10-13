@@ -4,7 +4,7 @@ I am a data scientist with eight years experience in the field of computational 
 
   - [IDSL.FSA](https://github.com/idslme/IDSL.FSA) (Fragmentation Spectra Analysis) is a computational fragmentation annotation workflow to annotate .msp (mass spectra format) and .mgf (Mascot generic format) fragmentation data files quickly via measurement of spectral entropy and/or cosine similarity even when precursor values are not available nor reliable. IDSL.FSA also may be employed to process bottom-up proteomics data.
 
-  - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analysis) was developed to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as MS<sup>E</sup>, and All-Ion Fragmentation (AIF) analyses.
+  - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analysis) is a pipeline to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as MS<sup>E</sup>, and All-Ion Fragmentation (AIF) analyses.
 
   - [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analysis) is a pipeline for processing nominal mass spectrometry data to create and annotate .msp files for untargeted MS/MS workflows.
 
