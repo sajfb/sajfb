@@ -1,7 +1,7 @@
 I am a data scientist with eight years experience in the field of computational mass spectrometry. I have developed a number of computational pipelines to process mass spectrometry data for various research applications such as proteomics, exposomics, metabolomics, lipidomics, and environmental studies. My philosophy in computational pipeline development is to develop software packages which are able to offer maximum automation levels, highest precision, versatility to use in various analytical platforms, and simplicity for users to minimize laboratorial efforts. To pursue my career goals, I am interested in professional positions to incorporate machine learning algorithms in mass spectrometry data processing pipelines to further improve precision of untargeted workflows or any other similar positions.
 
 **Active project: Natrual Product Discovery**
-  - New machine learning algorithms are trained to detect theratupic compounds in the selected fungus specimens.
+  - New machine learning algorithms are getting trained to detect theratupic compounds in the selected fungus specimens.
 
 **Completed projects (pending release)**
 
