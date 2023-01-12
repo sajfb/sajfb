@@ -1,7 +1,6 @@
 <!-- badges: start -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadjad-fakouri-baygi-31b5a856)
-
 [![CRAN stats](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-pkg.org/maint/sadjad.fakouri-baygi@mssm.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadjad-fakouri-baygi-31b5a856)
 <!-- badges: end -->
 
 I am a metabolomics and exposomics data scientist with eight years experience in the field of computational mass spectrometry. I have developed a number of computational pipelines to process mass spectrometry data for various research applications such as proteomics, exposomics, metabolomics, lipidomics, and environmental studies. My philosophy in computational pipeline development is to develop software packages which are able to offer maximum automation levels, highest precision, versatility to use in various analytical platforms, and simplicity for users to minimize laboratorial efforts. To pursue my career goals, I am interested in professional positions to incorporate quantum computations in mass spectrometry data processing pipelines to further improve precision of untargeted workflows or any other similar positions.
