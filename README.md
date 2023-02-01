@@ -11,7 +11,7 @@ I am a metabolomics and exposomics data scientist with eight years experience in
   - New machine learning algorithms are getting developed to detect therapeutic compounds in the selected fungus specimens.
 
 ***Multiomics***
-  - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomic analyses to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using machine learning algorithms.
+  - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomic workflows to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using machine learning algorithms.
 
 ## Completed projects: Mass Spectrometry Data Processing Workflows
 
