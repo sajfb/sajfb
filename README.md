@@ -5,10 +5,15 @@
 
 I am a metabolomics and exposomics data scientist with eight years experience in the field of computational mass spectrometry. I have developed a number of computational pipelines to process mass spectrometry data for various research applications such as proteomics, exposomics, metabolomics, lipidomics, and environmental studies. My philosophy in computational pipeline development is to develop software packages which are able to offer maximum automation levels, highest precision, versatility to use in various analytical platforms, and simplicity for users to minimize laboratorial efforts. To pursue my career goals, I am interested in professional positions to incorporate quantum computations in mass spectrometry data processing pipelines to further improve precision of untargeted workflows or any other similar positions.
 
-**Active project: Natrual Product Discovery**
-  - New machine learning algorithms are getting trained to detect therapeutic compounds in the selected fungus specimens.
+## Active projects: Machine Learning Models for Computational Biological
 
-**Completed projects**
+***Natrual Product Discovery***
+  - New machine learning algorithms are getting developed to detect therapeutic compounds in the selected fungus specimens.
+
+***Multiomics***
+  - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomics analyses to create robust multiomics pipelines in the context of ALzheimer diseases and chemical exposures using machine learning algorithms.
+
+## Completed projects: Mass Spectrometry Data Processing workflows
 
   - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analysis) is a chromatographic peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. &Delta;C = <sup>13</sup>C - <sup>12</sup>C = 1.003354835336 Da), to detect non-ideal chromatographic peaks, to correct retention time drifts using endogenous index markers, to align peaks (m/z-RT pairs) across population size studies (N > 200), to fill gaps on the aligned peak tables, to annotate peaks, and to visualize extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
 
