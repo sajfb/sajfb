@@ -13,7 +13,7 @@ I am a metabolomics and exposomics data scientist with eight years experience in
 ***Multiomics***
   - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomic analyses to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using machine learning algorithms.
 
-## Completed projects: Mass Spectrometry Data Processing workflows
+## Completed projects: Mass Spectrometry Data Processing Workflows
 
   - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analysis) is a chromatographic peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. &Delta;C = <sup>13</sup>C - <sup>12</sup>C = 1.003354835336 Da), to detect non-ideal chromatographic peaks, to correct retention time drifts using endogenous index markers, to align peaks (m/z-RT pairs) across population size studies (N > 200), to fill gaps on the aligned peak tables, to annotate peaks, and to visualize extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
 
