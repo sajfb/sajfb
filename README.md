@@ -5,13 +5,13 @@
 
 I am a metabolomics and exposomics data scientist with eight years experience in the field of computational mass spectrometry. I have developed a number of computational pipelines to process mass spectrometry data for various research applications such as proteomics, exposomics, metabolomics, lipidomics, and environmental studies. My philosophy in computational pipeline development is to develop software packages which are able to offer maximum automation levels, highest precision, versatility to use in various analytical platforms, and simplicity for users to minimize laboratorial efforts. To pursue my career goals, I am interested in professional positions to incorporate quantum computations in mass spectrometry data processing pipelines to further improve precision of untargeted workflows or any other similar positions.
 
-## Active projects: Machine Learning Models for Computational Biology
+## Active projects: Neural Network Models for Computational Biology
 
 ***Natural Product Discovery***
-  - New machine learning algorithms are getting developed to detect therapeutic compounds in the selected fungus specimens.
+  - Neural network models are developed to detect therapeutic compounds in the selected fungus specimens.
 
 ***Multiomics***
-  - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomic workflows to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using machine learning algorithms.
+  - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomic workflows to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using neural network models.
 
 ## Completed projects: Mass Spectrometry Data Processing Workflows
 
