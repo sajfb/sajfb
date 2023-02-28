@@ -9,7 +9,7 @@ I am a metabolomics and exposomics data scientist with eight years experience in
 ## Active projects: Neural Network Models for Computational Biology
 
 ***Natural Product Discovery***
-  - Developing neural network models to detect therapeutic compounds in the selected fungus specimens.
+  - Developing neural network models to detect bioactive compounds in the selected fungus specimens.
 
 ***Multiomics***
   - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomic workflows to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using neural network models.
