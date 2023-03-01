@@ -2,6 +2,7 @@
 [![CRAN stats](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-pkg.org/maint/sadjad.fakouri-baygi@mssm.edu)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/idslme/IDSL.MLP)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadjad-fakouri-baygi-31b5a856)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=WzBF1YMAAAAJ)
 <!-- badges: end -->
 
 I am a computational software developer in the fields of natural product discovery and metabolomics specializing in mass spectrometry data sciences. I have developed several computational pipelines to process mass spectrometry data for various research applications including proteomics, exposomics, metabolomics, lipidomics, and environmental studies. My approach to computational software development is to create software packages that offer maximum automation levels, the highest precision, versatility to use in various analytical platforms, and simplicity for users to minimize laboratorial efforts. I am interested in pursuing professional positions that incorporate quantum computations in mass spectrometry data processing pipelines to improve the precision of bioactive compound discovery, or any other similar positions that align with my career goals.
