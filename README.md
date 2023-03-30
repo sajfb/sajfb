@@ -17,9 +17,11 @@ I am a computational software developer in the fields of natural product discove
 
 ## Completed projects: Mass Spectrometry Data Processing Workflows
 
-<div align="center">
-  <img src='https://github.com/sajfb/sajfb/blob/main/integrated.png' width="700px" align="center" />
-</div>
+<p align="center">
+  <a href="https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters/">
+    <img src="https://github.com/sajfb/sajfb/blob/main/integrated.png" alt="image description" width="700">
+  </a>
+</p>
 
   - [IDSL.ICA](https://github.com/idslme/IDSL.ICA) (Integrated Compound Annotation) is a full-scale annotation workflow to facilitate integration of metabolomics data for multi-omics analyses. (pending release ... )
 
