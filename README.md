@@ -1,6 +1,6 @@
 <!-- badges: start -->
 [![CRAN stats](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://CRAN.R-project.org/package=IDSL.IPA)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/idslme/IDSL.MLP)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]([https://github.com/idslme/IDSL.MLP](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadjad-fakouri-baygi-31b5a856)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=WzBF1YMAAAAJ)
 <!-- badges: end -->
@@ -23,7 +23,7 @@ I am a computational software developer in the fields of natural product discove
   </a>
 </p>
 
-  - [IDSL.ICA](https://github.com/idslme/IDSL.ICA) (Integrated Compound Annotation) is a full-scale annotation workflow to facilitate integration of metabolomics data for multi-omics analyses. (pending release ... )
+  - **IDSL.ICA** (Integrated Compound Annotation) is a full-scale annotation workflow to facilitate integration of metabolomics data for multi-omics analyses. (pending release ... )
 
   - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analysis) is a chromatographic peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. &Delta;C = <sup>13</sup>C - <sup>12</sup>C = 1.003354835336 Da), to detect non-ideal chromatographic peaks, to correct retention time drifts using endogenous index markers, to align peaks (m/z-RT pairs) across population size studies (N > 200), to fill gaps on the aligned peak tables, to annotate peaks, and to visualize extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
 
