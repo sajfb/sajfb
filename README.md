@@ -13,7 +13,7 @@ I am a computational software developer in the fields of natural product discove
   - Developing neural network models to detect bioactive compounds in the selected fungus specimens.
 
 ***Multiomics***
-  - Incorporating the computational software packages that I developed for mass spectrometry data processing with genomics and transcriptomic workflows to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using neural network models.
+  - Incorporating the computational software packages that I developed for mass spectrometry data processing with other omics data to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using neural network models.
 
 ## Completed projects: Mass Spectrometry Data Processing Workflows
 
