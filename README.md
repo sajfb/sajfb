@@ -7,18 +7,16 @@
 
 I am a computational software developer in the fields of natural product discovery and metabolomics specializing in mass spectrometry data sciences [[link1]](https://mountsinaiexposomics.org/dr-sadjad-fakouri-baygi-wins-the-mark-p-styczynski-early-career-award-in-computational-metabolomics-from-metabolomics-association-of-north-america-mana/) and [[link2]](https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters). I have developed several computational pipelines to process mass spectrometry data for various research applications including metabolomics, lipidomics, exposomics, and environmental studies. My approach to computational software development is to create software packages that offer maximum automation levels, the highest precision, versatility to use in various analytical platforms, and simplicity for users to minimize laboratorial efforts. I am interested in pursuing professional positions that incorporate quantum computations in mass spectrometry data processing pipelines to improve the precision of bioactive compound discovery, or any other similar positions that align with my career goals.
 
-## Active projects: Neural Network Models for Computational Biology
+## Completed projects
+#### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
 
-***Natural Product Discovery***
-  - Developing neural network models to detect bioactive compounds in the selected fungus specimens.
+  - [IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) is deep learning framework to further interpret unannoated mass spectrometry data.
+    
+    
 
-***Multiomics***
-  - Incorporating the computational software packages that I developed for mass spectrometry data processing with other omics data to create robust multiomics pipelines in the context of Alzheimer diseases and chemical exposures using neural network models.
-
-## Completed projects: Mass Spectrometry Data Processing Workflows
-
+#### Full-sacle metabolomics annotation pipeline
 <p align="center">
-  <img src="https://github.com/sajfb/sajfb/blob/main/integrated.png" alt="image description" width="700">
+  <img src="https://github.com/sajfb/sajfb/blob/main/integrated.png" alt="image description" width="500">
 </p>
 
   - [IDSL.ICA](https://github.com/idslme/IDSL.ICA) (Integrated Compound Annotation) is a full-scale annotation workflow to facilitate integration of metabolomics data for multi-omics analyses. (pending release ... )
