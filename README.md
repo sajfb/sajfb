@@ -6,7 +6,12 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=WzBF1YMAAAAJ)
 <!-- badges: end -->
 
-I am a computational software developer in the fields of natural product discovery, cheminformatics and metabolomics specializing in mass spectrometry data sciences [[link1]](https://mountsinaiexposomics.org/dr-sadjad-fakouri-baygi-wins-the-mark-p-styczynski-early-career-award-in-computational-metabolomics-from-metabolomics-association-of-north-america-mana/) and [[link2]](https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters). I have developed several computational pipelines to process mass spectrometry data for various research applications including metabolomics, lipidomics, exposomics, and environmental studies. My approach to computational software development is to create software packages that offer maximum automation levels, the highest precision, versatility to use in various analytical platforms, and simplicity for users to minimize laboratorial efforts. I am interested in pursuing professional positions that incorporate quantum computations in mass spectrometry data processing pipelines to improve the precision of bioactive compound discovery, or any other similar positions that align with my career goals.
+I'm a chemical and biological data scientist with expertise in cheminformatics and metabolomics focusing on small molecule discovery and mass spectrometry data sciences (see my award [[here]](https://mountsinaiexposomics.org/dr-sadjad-fakouri-baygi-wins-the-mark-p-styczynski-early-career-award-in-computational-metabolomics-from-metabolomics-association-of-north-america-mana/) and my presentation details [[here]](https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters)).
+
+I've crafted multiple computational pipelines tailored for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My research philosophy emphasizes maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based efforts.
+
+I'm actively exploring opportunities that integrate deep learning into chemoinformatic and bioinformatic workflows, enhancing the accuracy of compound identification. I'm open to roles that resonate with this vision and align with my broader professional aspirations.
+
 
 ## Completed projects
 #### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
