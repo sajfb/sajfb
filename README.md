@@ -10,7 +10,7 @@ I'm a chemical and biological data scientist with expertise in cheminformatics a
 
 I've crafted multiple computational pipelines tailored for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My research philosophy emphasizes maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based efforts.
 
-I'm actively exploring opportunities that integrate deep learning into chemoinformatic and bioinformatic workflows, enhancing the accuracy of compound identification. I'm open to roles that resonate with this vision and align with my broader professional aspirations.
+I'm actively exploring opportunities that integrate deep learning into chemoinformatic and bioinformatic workflows enhancing the accuracy of compound identification. I'm open to roles that resonate with this vision and align with my broader professional aspirations.
 
 
 ## Completed projects
