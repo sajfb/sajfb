@@ -16,7 +16,7 @@ I'm actively exploring opportunities that integrate deep learning into chemoinfo
 ## Completed projects
 #### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
 
-  - [IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) is deep learning framework to further interpret unannoated mass spectrometry data.
+  - [IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) is deep learning framework to further interpret unannoated mass spectrometry data using deep chemoinformatics analyses.
     
     
 
