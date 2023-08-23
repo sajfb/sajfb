@@ -8,7 +8,7 @@
 
 I'm a data scientist with expertise in cheminformatics and metabolomics focusing on small molecule discovery and mass spectrometry data sciences (see my award [here](https://mountsinaiexposomics.org/dr-sadjad-fakouri-baygi-wins-the-mark-p-styczynski-early-career-award-in-computational-metabolomics-from-metabolomics-association-of-north-america-mana/) and my presentation details [here](https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters)).
 
-I've crafted multiple computational pipelines tailored for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My research philosophy emphasizes maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based efforts.
+I've crafted multiple computational pipelines designed for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My research philosophy emphasizes on maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based efforts.
 
 I'm actively exploring opportunities that integrate deep learning into cheminformatics and bioinformatic workflows enhancing the accuracy of compound identification. I'm open to roles that resonate with this vision and align with my broader professional aspirations.
 
