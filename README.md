@@ -41,5 +41,5 @@ I'm actively exploring opportunities that integrate deep learning into cheminfor
 
   - [IDSL.MXP](https://github.com/idslme/IDSL.MXP) (Mass Spectrometry Parser) is a light and fast parser for mzML/mzXML/netCDF mass spectrometry data files. IDSL.MXP is especially a proven tool to read corrupted mass spectrometry files.
 
-#### Computational mass spectrometry pipelines for environmental chemometrics projects as part of my doctoral research
-  - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically complex environmental matrices for unknown contaminants. The IPDC algorithm was successfully employed in five different projects during my PhD.
+#### Computational mass spectrometry pipelines for environmental cheminformatics projects as part of my doctoral research
+  - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically complex environmental matrices for unknown contaminants using chemometric methods. The IPDC algorithm was successfully employed in five different projects during my PhD.
