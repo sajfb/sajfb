@@ -13,16 +13,15 @@ I've crafted multiple computational pipelines designed for untargeted mass spect
 I'm actively exploring opportunities that integrate deep learning into cheminformatics and bioinformatics workflows enhancing the accuracy of compound identification. I'm open to roles that resonate with this vision and align with my broader professional aspirations.
 
 
-## Completed projects
-#### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
-
-  - [IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) is deep learning framework to further interpret unannoated mass spectrometry data using deep cheminformatics analyses.
-    
-    
 
 <p align="center">
   <img src="https://github.com/sajfb/sajfb/blob/main/Comprehensive_Untargeted_Metabolomics_Workflow.PNG" alt="image description">
 </p>
+
+## Completed projects
+#### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
+
+  - [IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) is deep learning framework to further interpret unannoated mass spectrometry data using deep cheminformatics analyses.
 
   - [IDSL.ICA](https://github.com/idslme/IDSL.ICA) (Integrated Compound Annotation) is a full-scale annotation workflow to facilitate integration of metabolomics data for multi-omics analyses. (pending release ... )
 
