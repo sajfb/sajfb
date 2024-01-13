@@ -20,7 +20,7 @@ I'm actively exploring opportunities that integrate deep learning into cheminfor
     
     
 
-#### Full-sacle metabolomics annotation pipeline
+#### Comprehensive Untargeted Metabolomics Workflow
 <p align="center">
   <img src="https://github.com/sajfb/sajfb/blob/main/Comprehensive_Untargeted_Metabolomics_Workflow.PNG" alt="image description">
 </p>
