@@ -22,7 +22,7 @@ I'm actively exploring opportunities that integrate deep learning into cheminfor
 
 #### Full-sacle metabolomics annotation pipeline
 <p align="center">
-  <img src="https://github.com/sajfb/sajfb/blob/main/integrated.png" alt="image description" width="500">
+  <img src="https://github.com/sajfb/sajfb/blob/main/Comprehensive_Untargeted_Metabolomics_Workflow.PNG" alt="image description">
 </p>
 
   - [IDSL.ICA](https://github.com/idslme/IDSL.ICA) (Integrated Compound Annotation) is a full-scale annotation workflow to facilitate integration of metabolomics data for multi-omics analyses. (pending release ... )
