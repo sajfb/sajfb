@@ -10,8 +10,7 @@ I'm a data scientist with expertise in cheminformatics and metabolomics focusing
 
 I've crafted multiple computational pipelines designed for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My research philosophy emphasizes on maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based experiments.
 
-I'm actively exploring opportunities that integrate deep learning into cheminformatics and bioinformatics workflows enhancing the accuracy of compound identification. I'm open to roles that resonate with this vision and align with my broader professional aspirations.
-
+Thriving in my current role at Syntekabio, but always open to exploring new avenues and challenges within cheminformatics and bioinformatics. Passionate about staying updated on advancements in deep learning applications for drug discovery and keen on sharing my experience and insights with the community.
 
 
 <p align="center">
