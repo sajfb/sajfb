@@ -6,19 +6,19 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=WzBF1YMAAAAJ)
 <!-- badges: end -->
 
-I'm a data scientist with expertise in cheminformatics and metabolomics focusing on small molecule discovery and mass spectrometry data sciences (see my [award news](https://mountsinaiexposomics.org/dr-sadjad-fakouri-baygi-wins-the-mark-p-styczynski-early-career-award-in-computational-metabolomics-from-metabolomics-association-of-north-america-mana/) from Metabolomics Association of North America (MANA) and my presentation details [here](https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters)).
+I'm an award-winning data scientist bridging cheminformatics and metabolomics focusing on small molecule discovery and mass spectrometry data sciences (see my [award news](https://mountsinaiexposomics.org/dr-sadjad-fakouri-baygi-wins-the-mark-p-styczynski-early-career-award-in-computational-metabolomics-from-metabolomics-association-of-north-america-mana/) from Metabolomics Association of North America (MANA) and my presentation details [here](https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters)).
 
-I've crafted multiple computational pipelines designed for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My research philosophy emphasizes on maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based experiments.
+I've crafted multiple computational pipelines designed for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My software development philosophy emphasizes on maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based experiments.
 
-Thriving in my current role at Syntekabio, but always open to exploring new avenues and challenges within cheminformatics and bioinformatics. Passionate about staying updated on advancements in deep learning applications for drug discovery and keen on sharing my experience and insights with the community.
+Thriving in my current role at Syntekabio, but always open to exploring new avenues and challenges within cheminformatics and bioinformatics. Passionate about unlocking the potential of AI for next-generation drug design.
 
+## Completed projects
+#### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
 
 <p align="center">
   <img src="https://github.com/sajfb/sajfb/blob/main/Comprehensive_Untargeted_Metabolomics_Workflow.PNG" alt="image description">
 </p>
 
-## Completed projects
-#### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
 
   - [IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) is deep learning framework to further interpret unannoated mass spectrometry data using deep cheminformatics analyses.
 
