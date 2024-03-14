@@ -10,6 +10,8 @@ I'm an award-winning data scientist bridging cheminformatics and metabolomics fo
 
 I've crafted multiple computational pipelines designed for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My software development philosophy emphasizes on maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based experiments.
 
+Thriving in my current role at Syntekabio, but always driven to pursue cutting-edge research for next-generation AI drug design and discovery.
+
 ## Completed projects
 #### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
 
