@@ -10,7 +10,10 @@ I'm an award-winning data scientist bridging cheminformatics and metabolomics fo
 
 I've crafted multiple computational pipelines designed for untargeted mass spectrometry data processing across diverse research domains including metabolomics, lipidomics, exposomics, and environmental studies. My software development philosophy emphasizes on maximal automation, highest precision, multi-platform compatibility, and user-friendly interfaces to minimize lab-based experiments.
 
-I am always driven to advance next-generation AI for chemistry and biological applications through cutting-edge research.
+I am always driven to advance next-generation AI for chemistry and biological applications.
+
+## Developing AI-Powered Digital Twins for Bioreactors at [Aropha](https://github.com/Aropha)
+I am currently leading the development of digital twins for bioreactors at Aropha utilizing advanced AI models to simulate bioprocesses. By creating virtual replicas of our bioreactor systems, we aim to predict performance and scale up the company’s capacity effectively. This work integrates cutting-edge AI engines with bioprocess engineering.
 
 ## Completed projects
 #### Mass Spectrometry Data Processing Workflows at the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme)
@@ -19,26 +22,8 @@ I am always driven to advance next-generation AI for chemistry and biological ap
   <img src="https://github.com/sajfb/sajfb/blob/main/Comprehensive_Untargeted_Metabolomics_Workflow.PNG" alt="image description">
 </p>
 
-
-  - [IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) is deep learning framework to further interpret unannoated mass spectrometry data using deep cheminformatics analyses.
-
-  - IDSL.ICA (Integrated Compound Annotation) is a full-scale annotation workflow to facilitate integration of metabolomics data for multi-omics analyses. (pending release ... )
-
-  - [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analysis) is a chromatographic peak-picking software package which is able to screen at lowest signal intensities (S/N > 2). IDSL.IPA is able to pair isotopologues with a fixed distance (e.g. &Delta;C = <sup>13</sup>C - <sup>12</sup>C = 1.003354835336 Da), to detect chromatographic peaks via geometric analysis, to correct retention time drifts using endogenous index markers, to align peaks (m/z-RT pairs) across population size studies (N > 200), to fill gaps on the aligned peak tables, to annotate peaks, and to visualize extracted ion chromatograms (EICs) and total ion chromatograms (TICs).
-
-  - [IDSL.FSA](https://github.com/idslme/IDSL.FSA) (Fragmentation Spectra Analysis) is a computational fragmentation annotation workflow to annotate *.msp* (mass spectra format) and *.mgf* (Mascot generic format) fragmentation data files rapidly via measurement of spectral entropy and/or cosine similarity even when precursor values are not available nor reliable. IDSL.FSA also may be employed to process bottom-up proteomics data.
-
-  - [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analysis) is a pipeline to deconvolute fragmentation spectra from Data Dependent Acquisition (DDA), and various Data-Independent Acquisition (DIA) methods such as SWATH-MS, MS<sup>E</sup>, and All-Ion Fragmentation (AIF) analyses.
-
-  - [IDSL.UFA](https://github.com/idslme/IDSL.UFA) (United Formula Annotation) is a computationally enhanced pipeline to annotate chromatographic peaks with molecular formula using an isotopic profile matching approach. IDSL.UFA only requires MS1 level data which is especially beneficial when MS/MS data are not available. The IDSL.UFA pipeline can screen for isotopic profiles of up to 10<sup>8</sup> molecular formulas using a computationally efficient algorithm without any memory complications.
-
-  - [IDSL.UFAx](https://github.com/idslme/IDSL.UFAx) (exhaustive UFA) was developed to annotate chromatographic peaks using an exhaustive chemical enumeration-based approach. This package can perform elemental composition calculations using the following 15 elements: C, B, Br, Cl, K, S, Si, N, H, As, F, I, Na, O, and P. IDSL.UFAx is also able to screen for isotopic profiles of 10<sup>27</sup> molecular formulas without any memory complications; however, IDSL.UFAx is not computationally as fast as IDSL.UFA.
-
-  - [IDSL.SUFA](https://github.com/idslme/IDSL.SUFA) is a simplified version of the IDSL.UFA package to calculate isotopic profiles and adduct formulas from molecular formulas with no dependency on other R packages for online tools such as [isotopic profile calculator](https://ipc.idsl.me/). The IDSL.SUFA package also provides functions to process user-defined adduct formulas.
-
-  - [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analysis) is a pipeline for processing nominal mass spectrometry data to create and annotate .msp files for untargeted MS/MS workflows.
-
-  - [IDSL.MXP](https://github.com/idslme/IDSL.MXP) (Mass Spectrometry Parser) is a light and fast parser for mzML/mzXML/netCDF mass spectrometry data files. IDSL.MXP is especially a proven tool to read corrupted mass spectrometry files.
+Tools shown in this diagram form a comprehensive pipeline for full-scale untargeted metabolomics workflow to efficiently process, and annotate large-scale mass spectrometry data. The integration of peak detection, formula annotation, fragmentation analysis, and data parsing facilitates any muti-omics or untartgeted compound discovery projects.
+[IDSL_MINT](https://github.com/idslme/IDSL_MINT) (Mass INTerpretator) utilizes deep learning and cheminformatics to interpret MS/MS data. [IDSL.IPA](https://github.com/idslme/IDSL.IPA) (Intrinsic Peak Analysis) is a chromatographic peak-picking software capable of detecting low-intensity signals (S/N > 2), pairing isotopologues with a fixed distance (e.g. &Delta;C = <sup>13</sup>C - <sup>12</sup>C = 1.003354835336 Da), correcting retention time drifts, aligning peaks across large studies (N > 200), filling gaps, and visualizing extracted and total ion chromatograms. [IDSL.FSA](https://github.com/idslme/IDSL.FSA) (Fragmentation Spectra Analysis) rapidly annotates fragmentation data files (*.msp* and *.mgf*) using spectral entropy or cosine similarity, even without reliable precursor values, and can process bottom-up proteomics data. [IDSL.CSA](https://github.com/idslme/IDSL.CSA) (Composite Spectra Analysis) deconvolutes fragmentation spectra from various acquisition methods like DDA and DIA (SWATH-MS, MSE, AIF). [IDSL.UFA](https://github.com/idslme/IDSL.UFA) (United Formula Annotation) and its exhaustive version IDSL.UFAx annotate chromatographic peaks with molecular formulas using isotopic profile matching; IDSL.UFA handles up to 10<sup>8</sup> formulas efficiently, while [IDSL.UFAx](https://github.com/idslme/IDSL.UFAx) can screen 10<sup>27</sup> formulas using 15 elements, though it is less computationally fast. [IDSL.SUFA](https://github.com/idslme/IDSL.SUFA) simplifies isotopic profile and adduct formula calculations without dependencies on other R packages. [IDSL.NPA](https://github.com/idslme/IDSL.NPA) (Nominal Peak Analysis) processes nominal mass spectrometry data to create and annotate *.msp* files for untargeted MS/MS workflows. Lastly, [IDSL.MXP](https://github.com/idslme/IDSL.MXP) (Mass Spectrometry Parser) is a lightweight and fast parser for mass spectrometry data files, capable of reading corrupted mass spectrometry files.
 
 #### Computational mass spectrometry pipelines for environmental cheminformatics projects as part of my doctoral research
   - An [IPDC](https://github.com/sajfb/Isotopic-Profile-Deconvolution-Chromatogram-IPDC-algorithm) (Isotopic Profile Deconvoluted Chromatogram) algorithm to screen biologically complex environmental matrices for unknown contaminants using chemometric methods. The IPDC algorithm was successfully employed in five different projects during my PhD.
