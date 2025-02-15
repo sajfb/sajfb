@@ -22,13 +22,11 @@ Explore our [**digital twin platform**](https://modelserver.aropha.com) for batc
 ## Completed Projects
 
 ### Mass Spectrometry Data Processing Workflows
-At the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme), I developed an end-to-end untargeted metabolomics workflow to efficiently process and annotate large-scale mass spectrometry data.
+At the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme), I developed an end-to-end untargeted metabolomics workflow to efficiently process and annotate large-scale mass spectrometry data. This workflow minimizes reliance on purely data-driven methods by leveraging stable isotopic principles that underpin biochemistry and organic chemistry.
 
-<p align="center">
-  <img src="https://github.com/sajfb/sajfb/blob/main/Comprehensive_Untargeted_Metabolomics_Workflow.PNG" alt="Comprehensive Untargeted Metabolomics Workflow">
-</p>
-
-This workflow minimizes reliance on purely data-driven methods by leveraging stable isotopic principles that underpin biochemistry and organic chemistry.
+<div align="center">
+  <img src="https://github.com/sajfb/sajfb/blob/main/Comprehensive_Untargeted_Metabolomics_Workflow.PNG" alt="Comprehensive Untargeted Metabolomics Workflow" width="600">
+</div>
 
 ### Environmental Cheminformatics and PhD Research Projects
 During my doctoral research, I developed computational mass spectrometry pipelines for environmental cheminformatics projects.
