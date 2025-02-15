@@ -14,7 +14,7 @@ For more details about my work and recognition:
 
 I've developed multiple computational pipelines for untargeted mass spectrometry data processing across domains such as metabolomics, lipidomics, exposomics, and environmental studies. My development philosophy emphasizes maximal automation, high precision, multi-platform compatibility, and user-friendly interfaces to minimize extensive lab-based experiments. I’m also driven to advance next-generation AI for chemistry and biological applications.
 
-## Developing AI-Powered Digital Twins Replica for Bioreactors at [Aropha](https://github.com/Aropha)
+## Developing AI-Powered Digital Twin Replicas for Bioreactors at [Aropha](https://github.com/Aropha)
 At Aropha, I lead the development of digital twins for bioreactors—high-fidelity virtual replicas that enable accurate performance prediction, real-time process monitoring, and data-driven decision-making in dynamic bioproduction workflows. By integrating state-of-the-art AI with bioprocess engineering, our approach enhances process control, reduces experimental costs, and accelerates optimization. 
 
 Explore our [**digital twin platform**](https://modelserver.aropha.com) for batch processing simulations.
