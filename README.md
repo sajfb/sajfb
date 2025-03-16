@@ -17,7 +17,7 @@ I've developed multiple computational pipelines for untargeted mass spectrometry
 ## Developing AI-Powered Digital Twin Replicas for Bioreactors at [Aropha](https://github.com/Aropha)
 At Aropha, I lead the development of digital twins for bioreactors—high-fidelity virtual replicas that enable accurate performance prediction, real-time process monitoring, and data-driven decision-making in dynamic bioproduction workflows. By integrating state-of-the-art AI with bioprocess engineering, our approach enhances process control, reduces experimental costs, and accelerates optimization. 
 
-Explore our [**digital twin platform**](https://modelserver.aropha.com) for batch processing simulations.
+Explore our [**digital twin platform**](https://ai.aropha.com) for batch processing simulations.
 
 ## Completed Projects
 
