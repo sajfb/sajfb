@@ -14,12 +14,12 @@ For more details about my work and recognition:
 
 I've developed multiple computational pipelines for untargeted mass spectrometry data processing across domains such as metabolomics, lipidomics, exposomics, and environmental studies. My development philosophy emphasizes maximal automation, high precision, multi-platform compatibility, and user-friendly interfaces to minimize extensive lab-based experiments. I’m also driven to advance next-generation AI for chemistry and biological applications.
 
-## Developing AI-Powered Digital Twin Replicas for Bioreactors at [Aropha](https://github.com/Aropha)
-At Aropha, I lead the development of digital twins for bioreactors—high-fidelity virtual replicas that enable accurate performance prediction, real-time process monitoring, and data-driven decision-making in dynamic bioproduction workflows. By integrating state-of-the-art AI with bioprocess engineering, our approach enhances process control, reduces experimental costs, and accelerates optimization. 
+## Completed Projects
+
+### AI-Powered Digital Twin Replicas for Bioreactors at [Aropha](https://github.com/Aropha)
+At Aropha, I led the development of digital twins for bioreactors which were high-fidelity virtual replicas that enabled accurate performance prediction, real-time process monitoring, and data-driven decision-making in dynamic bioproduction workflows. By integrating state-of-the-art AI with bioprocess engineering, our approach enhanced process control, reduced experimental costs, and accelerated optimization.
 
 Explore our [**digital twin platform**](https://ai.aropha.com) for batch processing simulations.
-
-## Completed Projects
 
 ### Mass Spectrometry Data Processing Workflows
 At the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme), I developed an end-to-end untargeted metabolomics workflow to efficiently process and annotate large-scale mass spectrometry data. This workflow minimizes reliance on purely data-driven methods by leveraging stable isotopic principles that underpin biochemistry and organic chemistry.
