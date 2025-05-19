@@ -12,7 +12,7 @@ For more details about my work and recognition:
 - Read my [award news](https://mountsinaiexposomics.org/dr-sadjad-fakouri-baygi-wins-the-mark-p-styczynski-early-career-award-in-computational-metabolomics-from-metabolomics-association-of-north-america-mana/) from the Metabolomics Association of North America (MANA).
 - View my presentation details [here](https://metabolomicscentre.ca/metabonews-november-issue-mana-conference-presenters).
 
-I've developed multiple computational pipelines for untargeted mass spectrometry data processing across domains such as metabolomics, lipidomics, exposomics, and environmental studies. My development philosophy emphasizes maximal automation, high precision, multi-platform compatibility, and user-friendly interfaces to minimize extensive lab-based experiments. I’m also driven to advance next-generation AI for chemistry and biological applications.
+I've developed multiple computational pipelines for untargeted mass spectrometry data processing across domains such as metabolomics, lipidomics, exposomics, and environmental studies. My development philosophy emphasizes maximal automation, high precision, multi-platform compatibility, and user-friendly interfaces to minimize extensive lab-based experiments. I also led the development of an AI-powered simulation platform at Aropha, enabling cloud-based bioreactor modeling and predictive analytics as the core of their [digital twin system](https://www.aropha.com/resources/blog/biodegradation-studio-ai-platform-launch/). My broader goal is to advance next-generation AI for chemistry and life science applications.
 
 ## Completed Projects
 
