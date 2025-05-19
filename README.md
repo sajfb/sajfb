@@ -19,7 +19,7 @@ I've developed multiple computational pipelines for untargeted mass spectrometry
 ### AI-Powered Digital Twin Replicas for Bioreactors at [Aropha](https://github.com/Aropha)
 At Aropha, I led the development of digital twins for bioreactors which were high-fidelity virtual replicas that enabled accurate performance prediction, real-time process monitoring, and data-driven decision-making in dynamic bioproduction workflows. By integrating state-of-the-art AI with bioprocess engineering, our approach enhanced process control, reduced experimental costs, and accelerated optimization.
 
-Explore our [**digital twin platform**](https://ai.aropha.com) for batch processing simulations.
+Explore our [**digital twin platform**](https://ai.aropha.com) for batch processing AI-powered simulations.
 
 ### Mass Spectrometry Data Processing Workflows
 At the [Integrated Data Science Laboratory for Metabolomics and Exposomics](https://github.com/idslme), I developed an end-to-end untargeted metabolomics workflow to efficiently process and annotate large-scale mass spectrometry data. This workflow minimizes reliance on purely data-driven methods by leveraging stable isotopic principles that underpin biochemistry and organic chemistry.
